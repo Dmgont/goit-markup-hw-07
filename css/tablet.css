@@ -13,6 +13,7 @@
 .header-container-wrap {
     display: flex;
     justify-content: space-between;
+    align-items: center;
 }
 
 .navigation-list {
@@ -25,16 +26,14 @@
 
 .navigation-item {
     position: relative;
-
     display: block;
     padding-bottom: 24px;
-
+    padding-top: 24px;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: var(--dark-color);
-
     transition: color var(--trans-dur-timing-func);
 }
 
