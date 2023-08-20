@@ -17,6 +17,7 @@ address {
     display: flex;
     align-items: center;
     gap: 40px;
+    margin-top: 24px;
 }
 
 .address-item {
