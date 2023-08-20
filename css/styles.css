@@ -69,7 +69,6 @@ img {
 .header-container {
     display: flex;
     justify-content: space-between;
-    padding-top: 24px;
 }
 
 .navigation-list { 
@@ -88,6 +87,7 @@ img {
     background-color: #fff;
 
     cursor: pointer;
+    margin-top: 3px;
 }
 
 .mob-menu-icon {
